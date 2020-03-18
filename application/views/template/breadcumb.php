@@ -15,10 +15,9 @@
                          </div>
                          <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                              <ul class="breadcome-menu">
-                                 <li><a href="#">Home</a> <span class="bread-slash">/</span>
+                                 <li><a href="#">Home</a> <span class="bread-slash"></span>
                                  </li>
-                                 <li><span class="bread-blod">Dashboard</span>
-                                 </li>
+
                              </ul>
                          </div>
                      </div>
